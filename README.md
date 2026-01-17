@@ -40,6 +40,8 @@ graph LR
     style Local fill:#e1f5fe,stroke:#01579b
     style Cloud fill:#fff3e0,stroke:#ff6f00
 
+```
+
 ## 🚀 Features
 
 * **Zero Local Compute:** Runs heavy inference on the cloud; your laptop stays cool.
